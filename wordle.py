@@ -372,11 +372,10 @@ class MainScreen(tk.Frame):
         self.update_labels(colors)
         self.update_keyboard()
 
+        self.current_word += 1
         if word == self.answer:
             self.congratulate()
-
-        self.current_word += 1
-        if self.current_word >= MAX_TRIES:
+        elif self.current_word >= MAX_TRIES:
             self.humiliate()
 
     def remove_letter(self, event=None):

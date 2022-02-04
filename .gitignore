@@ -1,6 +1,7 @@
 # custom
 assets/unused_icons
 upx.exe
+wordle.exe
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
