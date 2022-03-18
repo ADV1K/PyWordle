@@ -1,5 +1,6 @@
 # PyWordle
 A Wordle clone written in Python and Tkinter.
+
 ![screenshot](images/screenshot1.png)
 
 ## Features
