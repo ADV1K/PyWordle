@@ -1,4 +1,4 @@
-![screenshot](images/screenshot1.jpeg)
+![screenshot](images/screenshot1.png)
 # PyWordle
 A Wordle clone written in Python and Tkinter.
 
